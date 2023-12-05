@@ -16,7 +16,7 @@ The Weather App is a simple Python script that provides current weather informat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/AfiyaCreates/oibsip_task4/tree/main
    cd WeatherApp
    ```
 
